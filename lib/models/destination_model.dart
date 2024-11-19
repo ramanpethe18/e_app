@@ -27,7 +27,7 @@ const List<Activity> activities = [
   Activity(
     imageUrl: 'assets/images/gondola.jpg',
     name: 'Walking Tour and Gondola Ride',
-    type: 'Sightseeing Tour',
+    type: 'Marine Drive',
     rating: 4,
     price: 210, startTimes: ['9:00 am', '11:00 am'],
   ),
